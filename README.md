@@ -8,4 +8,4 @@
 * ### Install Atom IDE  [ATOM](https://atom.io/)
 
 # RECOMMENDED RESOURCES
-*  ##  [OPEN] (https://cp-algorithms.com/) 
+*  ###  [OPEN] (https://cp-algorithms.com/) 
